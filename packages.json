@@ -13,7 +13,8 @@
   },
   {
     "package": "Rhdf5lib",
-    "url": "https://github.com/Huber-group-EMBL/Rhdf5lib"
+    "url": "https://github.com/Huber-group-EMBL/Rhdf5lib",
+    "branch": "test-wasm"
   },
   {
     "package": "rhdf5filters",
