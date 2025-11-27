@@ -19,5 +19,37 @@
   {
     "package": "rhdf5filters",
     "url": "https://github.com/Huber-group-EMBL/rhdf5filters"
+  },
+  {
+    "package": "lemur",
+    "url": "https://github.com/const-ae/lemur/" 
+  },
+  {
+    "package": "MOFA2",
+    "url": "https://github.com/bioFAM/MOFA2"
+  },
+  {
+    "package": "DESeq2",
+    "url": "https://github.com/thelovelab/DESeq2"
+  },
+  {
+    "package": "IHW",
+    "url": "https://github.com/nignatiadis/IHW"
+  },
+  {
+    "package": "EBImage",
+    "url": "https://github.com/aoles/EBImage"
+  },
+  {
+    "package": "vsn",
+    "url": "https://github.com/Huber-group-EMBL/vsn"
+  },
+  {
+    "package": "DEXSeq",
+    "url": "https://github.com/areyesq89/DEXSeq"
+  },
+  {
+    "package": "HilbertVis",
+    "url": "https://git.bioconductor.org/packages/HilbertVis"
   }
 ]
