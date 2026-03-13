@@ -24,10 +24,6 @@
     "url": "https://github.com/const-ae/lemur/" 
   },
   {
-    "package": "MOFA2",
-    "url": "https://github.com/bioFAM/MOFA2"
-  },
-  {
     "package": "DESeq2",
     "url": "https://github.com/thelovelab/DESeq2"
   },
