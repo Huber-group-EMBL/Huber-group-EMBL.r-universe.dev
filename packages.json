@@ -54,5 +54,9 @@
   {
     "package": "arrayQualityMetrics",
     "url": "https://github.com/grimbough/arrayQualityMetrics"
+  },
+  {
+    "package": "splots",
+    "url": "https://git.bioconductor.org/packages/splots"
   }
 ]
