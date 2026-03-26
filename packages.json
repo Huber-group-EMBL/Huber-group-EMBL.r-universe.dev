@@ -48,8 +48,8 @@
     "url": "https://git.bioconductor.org/packages/HilbertVis"
   },
   {
-    "package": "arrayQualityMetrics",
-    "url": "https://github.com/grimbough/arrayQualityMetrics"
+    "package": "arrayQualityMetrics", 
+    "url": "https://git.bioconductor.org/packages/arrayQualityMetrics"
   },
   {
     "package": "splots",
