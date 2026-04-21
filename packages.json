@@ -49,7 +49,7 @@
   },
   {
     "package": "arrayQualityMetrics", 
-    "url": "https://git.bioconductor.org/packages/arrayQualityMetrics"
+    "url": "https://github.com/Huber-group-EMBL/arrayQualityMetrics"
   },
   {
     "package": "splots",
