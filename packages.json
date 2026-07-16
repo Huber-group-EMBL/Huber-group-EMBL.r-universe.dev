@@ -58,5 +58,9 @@
   {
     "package": "MSMB",
     "url": "https://git.bioconductor.org/packages/MSMB"
+  },
+  {
+    "package": "ZarrArray",
+    "url": "https://github.com/Bioconductor/ZarrArray"
   }
 ]
