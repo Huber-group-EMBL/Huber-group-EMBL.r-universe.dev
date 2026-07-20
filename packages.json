@@ -62,5 +62,9 @@
   {
     "package": "ZarrArray",
     "url": "https://github.com/Bioconductor/ZarrArray"
+  },
+  {
+    "package": "romeo",
+    "url": "https://github.com/Huber-group-EMBL/romeo",
   }
 ]
