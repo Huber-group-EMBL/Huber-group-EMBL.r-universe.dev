@@ -66,5 +66,13 @@
   {
     "package": "romeo",
     "url": "https://github.com/Huber-group-EMBL/romeo"
+  },
+  {
+    "package": "Hiiragi2013",
+    "url": "https://github.com/Huber-group-EMBL/Hiiragi2013"
+  },
+  {
+    "package": "davidTiling",
+    "url": "https://github.com/Huber-group-EMBL/davidTiling"
   }
 ]
