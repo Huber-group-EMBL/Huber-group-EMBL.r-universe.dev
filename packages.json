@@ -74,5 +74,9 @@
   {
     "package": "remart",
     "url": "https://github.com/Huber-group-EMBL/remart"
+  },
+  {
+    "package": "davidTiling",
+    "url": "https://github.com/Huber-group-EMBL/davidTiling"
   }
 ]
