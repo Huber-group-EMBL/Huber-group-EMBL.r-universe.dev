@@ -78,5 +78,9 @@
   {
     "package": "davidTiling",
     "url": "https://github.com/Huber-group-EMBL/davidTiling"
+  },
+  {
+    "package": "HD2013SGI",
+    "url": "https://github.com/Huber-group-EMBL/HD2013SGI"
   }
 ]
