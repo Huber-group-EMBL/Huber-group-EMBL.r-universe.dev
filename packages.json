@@ -82,5 +82,9 @@
   {
     "package": "HD2013SGI",
     "url": "https://github.com/Huber-group-EMBL/HD2013SGI"
+  },
+  {
+    "package": "tilingArray",
+    "url": "https://git.bioconductor.org/packages/tilingArray"
   }
 ]
