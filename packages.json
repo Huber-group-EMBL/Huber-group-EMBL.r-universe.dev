@@ -17,8 +17,7 @@
   },
   {
     "package": "rhdf5filters",
-    "url": "https://github.com/Huber-group-EMBL/rhdf5filters",
-    "branch": "cross-compile"
+    "url": "https://github.com/Huber-group-EMBL/rhdf5filters"
   },
   {
     "package": "lemur",
